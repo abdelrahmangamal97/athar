@@ -1,0 +1,101 @@
+ .bg1{
+    background-image: url("undraw_reading_0re1.svg");
+    background-repeat: no-repeat;
+    background-color: #bfcecd;
+    background-position: right;
+    /* background-position-y: 100px; */
+    background-size: 50%;
+    background-position-y: 100%;
+
+ }
+ .bg2{
+   background-image: url("undraw_researching_22gp.svg");
+    background-repeat: no-repeat;
+    background-color: #bfcecd;
+    background-position: right;
+    background-position-y: 95%;
+    background-size: 40%;
+ }
+ .bg3{
+    background-image: url("undraw_happy_news_hxmt.svg");
+    background-repeat: no-repeat;
+    background-color: #bfcecd;
+    background-position: right;
+    background-position-y: 95%;
+    background-size: 40%;
+ }
+ .bg33{
+    background-image: url("undraw_message_sent_1030.svg");
+    background-repeat: no-repeat;
+    background-color: #bfcecd;
+    background-position: right;
+    background-position-y: 95%;
+    background-size: 40%;
+ }
+ .bg5{
+        background-image: url("undraw_empty_xct9.svg");
+    background-repeat: no-repeat;
+    background-color: #bfcecd;
+ }
+ .bg4{
+    background-image: url("undraw_happy_news_hxmt.svg");
+    background-repeat: no-repeat;
+    background-color: #bfcecd;
+    background-position: right;
+    background-position-y: 95%;
+    background-size: 40%;
+ }
+ input{
+    margin-bottom:2%;
+ }
+
+
+   .btn1{
+      background-color: #502920;
+      border-color: #e7c4a8;
+   }
+   .btn1:hover {
+      color: #fff;
+      background-color: #d07347;
+      border-color: #e7c4a8b3;
+  }
+  .clr1{
+   color: #d07347;
+  }
+  .inpt:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle 
+  {
+   color: #fff;
+   background-color: #d07347;
+   border-color: #e7c4a8;
+   box-shadow: -4px -2px 0 0.2rem rgba(167, 70, 45, 0.53) !important;
+
+  }
+   a {
+   color: #854435;
+   text-decoration: none;
+   background-color: transparent;
+   }
+   .inpt{
+      border: 1px solid #a7462d !important;
+      background-color: #bfcecd8a !important;
+   }
+   .inpt:focus{
+      box-shadow: -4px -2px 0 0.2rem rgba(167, 70, 45, 0.53) !important;
+      color: #141618 !important;
+
+   }
+   a:hover {
+      color: #d07347;
+      text-decoration: underline;
+  }
+  form {
+   background-color: #deeae926;
+ }
+ .conf{
+   background-color: #cfe3e24f;
+   border-radius: 20%;
+
+ }
+ .disc{
+    border: #a7462d;
+ }
