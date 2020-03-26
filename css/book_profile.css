@@ -1,0 +1,24 @@
+:root {
+    /* var(--main-btn-bg-color) */
+    --main-btn-bg-color: #d07347;
+}
+
+button {
+    height: 40px;
+    background: var(--main-btn-bg-color);
+    color: #FFF;
+    font-weight: bold;
+    border: none;
+}
+
+.btn-back {
+    /* background: red; */
+}
+
+.field-title {
+    font-weight: 700;
+}
+
+#book-btn {
+    width: 200px;
+}

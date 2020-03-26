@@ -49,9 +49,21 @@
     margin-bottom:2%;
  }
 
-
+.sz{
+   max-width: 70%;
+   /* margin-left: 25%; */
+}
+.sliderr{
+   /* max-width: 100px; */
+   max-height: 400px;
+   width: 100%;
+   object-fit: contain;
+}
+.hh{
+   height: 25%;
+}
    .btn1{
-      background-color: #502920;
+      background-color: #d07347;
       border-color: #e7c4a8;
    }
    .btn1:hover {
@@ -90,6 +102,9 @@
   }
   form {
    background-color: #deeae926;
+ }
+ .divclr{
+    background-color: #deeae926;
  }
  .conf{
    background-color: #cfe3e24f;
